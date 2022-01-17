@@ -8,6 +8,8 @@ This repository contains a list of topics to become a professional PHP developer
 3. PHP and Apache/Nginx servers
 4. PHP libraries
 5. Common PHP libraries
+1. What is Git
+2. GitHub, Bitbucker
 
 ## Basics
 1. Variables in PHP
@@ -45,6 +47,7 @@ This repository contains a list of topics to become a professional PHP developer
 1. Twig
 1. Slim framework
 1. PHPUnit
+2. PSR Logger
 
 ## Introduction to Frameworks
 1. Symfony
