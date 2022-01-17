@@ -2,6 +2,13 @@
 
 This repository contains a areas and ideas to become a professional PHP developer.
 
+## Introduction
+1. What is PHP
+2. How to install PHP
+3. PHP and Apache/Nginx servers
+4. PHP libraries
+5. Common PHP libraries
+
 ## Basics
 1. Variables in PHP
 1. Functions
