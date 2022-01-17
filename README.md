@@ -10,6 +10,7 @@ This repository contains a list of topics to become a professional PHP developer
 5. Common PHP libraries
 1. What is Git
 2. GitHub, Bitbucker
+3. PHPMyAdmin
 
 ## Basics
 1. Variables in PHP
