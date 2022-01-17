@@ -14,6 +14,7 @@ This repository contains a areas and ideas to become a professional PHP develope
 1. Functions
 1. HTTP $_GET and $_POST
 1. $_SESSION
+1. Composer
 
 ## Procedural Programming
 1. Form Submission
@@ -34,9 +35,35 @@ This repository contains a areas and ideas to become a professional PHP develope
 
 ## Design Patterns
 1. Overview
-2. Model-View-Controller
+1. Model-View-Controller
+1. Asynchronous operations with cron
+
+## Good to know
+1. PHP Standard Recommendations
+
+## Introduction to PHP Popular Packages
+1. Twig
+1. Slim framework
+1. PHPUnit
 
 ## Introduction to Frameworks
 1. Symfony
 2. Laravel
 3. Laminas
+
+## Deployment
+1. Heroku
+2. Digital Ocean
+3. Free hosting on Microsoft Azure
+
+## Projects to build
+1. Login and register
+1. Search on a website
+1. Crawler
+1. Blog
+1. Admin dashboard
+1. Clone XXX e.g. Booking
+1. Social website
+1. Ecommerce website
+1. Customer Relationship Managemenr
+1. Online course management system
