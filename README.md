@@ -1,6 +1,6 @@
 # PHP Developer Path
 
-This repository contains a areas and ideas to become a professional PHP developer.
+This repository contains a list of topics to become a professional PHP developer.
 
 ## Introduction
 1. What is PHP
