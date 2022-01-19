@@ -22,6 +22,7 @@ This repository contains a list of topics to become a professional PHP developer
 ## Procedural Programming
 1. Form Submission
 2. Form submission with Files
+1. Simple Routing
 3. Login and Register
 4. Working with files
 5. Working with Database
@@ -33,8 +34,9 @@ This repository contains a list of topics to become a professional PHP developer
 1. Object vs Class
 1. Inheritance
 1. Composition
-1. Login and Register using native PHP
-2. Class Autoloading
+2. Routing
+3. Login and Register using native PHP
+4. Class Autoloading
 
 ## Design Patterns
 1. Overview
